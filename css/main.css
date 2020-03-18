@@ -7,6 +7,11 @@ img {
   max-width: 200%;
   height:auto;
 }
+figcaption{
+  font-size: .75em;
+  font-style: italic;
+
+}
 img.headshot {
   max-width: 3em;
   vertical-align: middle;
@@ -134,11 +139,19 @@ p {
   font-family: Didot, serif;
 }
 
+p.author {
+  font-size: 0.75em;
+}
+
 header {
   font-family: Didot, serif;
   font-weight: bold
   background-color: rgb(239, 197, 175);
   line-height: 1;
+}
+
+h1 {
+  font-size: 3em;
 }
 author{
   line-height: 1;
