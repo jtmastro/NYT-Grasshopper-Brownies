@@ -22,7 +22,7 @@ img.headshot {
 
 body{
   max-width: 60rem;
-  background-color: #FBE7D5
+  background-color: #FBE7D5;
   padding: 1rem;
   margin-left: auto;
   margin-right: auto;
@@ -75,7 +75,7 @@ margin-top: 1rem;
 .list {
   list-style-position: inside;
   padding-left: 0;
-  border-top: 1px dashed #000;
+  border-top: .1rem dashed #000;
   margin-top: 1rem dashed #000;
   list-style: none;
 }
